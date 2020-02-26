@@ -6,3 +6,5 @@
   
     "sensitive-variables": ["aws_access_key", "aws_secret_key"]
 }
+
+// packer build -var-file=variables.json template.json
