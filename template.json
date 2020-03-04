@@ -20,4 +20,5 @@
         "type": "shell",
         "script": "script.sh",
         "execute_command": "sudo {{.Path}}"
+    }]
 }
